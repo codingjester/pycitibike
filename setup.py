@@ -9,5 +9,6 @@ setup(name="PyCitibike",
       author_email="codingjester@gmail.com",
       url="http://github.com/codingjester/pycitibike",
       license="MIT",
+      packages=['pycitibike'],
       install_requires=["requests"]
 )
